@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/My_Project/.idea/My_Project.iml" filepath="$USER_HOME$/PycharmProjects/My_Project/.idea/My_Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/firstFlask.iml" filepath="$PROJECT_DIR$/.idea/firstFlask.iml" />
     </modules>
   </component>
