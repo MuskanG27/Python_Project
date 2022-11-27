@@ -1,8 +1,13 @@
-Review Scrapper for Flipkart
+##Review Scrapper for Flipkart
+
 ReviewScrapper is a web based application which is primarly used to scraps the reviews for a particualar products from Ecommerce websites and save the reviews in the csv format that can be further used for Data-Analysis. ReviewScrapper also allows user to limit the reviews based on the Data requirement and scraps the reviews from the multiple pages. ➡️ Live 🍻https://review2scrapper.herokuapp.com/ 🍻
 
-Tech Stack
-Flask BeautifulSoup Python Heroku
+##Tech Stack
+
+Flask 
+BeautifulSoup 
+Python 
+Heroku
 
 ↘️ Outcome/Result:
 
